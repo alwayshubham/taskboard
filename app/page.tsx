@@ -38,7 +38,6 @@
 //   );
 // }
 "use client";
-// app/page.tsx
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 

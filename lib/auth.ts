@@ -53,7 +53,6 @@
 //   },
 //   secret: process.env.NEXTAUTH_SECRET || "fallback_secret_for_development",
 // };
-// lib/auth.ts
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
 
